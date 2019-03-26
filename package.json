@@ -1,6 +1,6 @@
 {
   "name": "sassync",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "start and help library for sass and scss easy use",
   "main": "index.js",
   "scripts": {
