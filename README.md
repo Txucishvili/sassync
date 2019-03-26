@@ -5,4 +5,4 @@ sassync is a library to help you quick start typing a sass/scss files with colle
 License
 ----
 
-MIT
+ISC
